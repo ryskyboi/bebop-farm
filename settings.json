@@ -1,0 +1,12 @@
+{
+  "slippage": 0.00003,
+  "pause": false,
+  "pause_time": 1.5,
+  "try_mean": 10,
+  "try_bounds": 10,
+  "sleep_after": true,
+  "quit": true,
+  "pause_after_success": 15,
+  "jam": false,
+  "pmm": true
+}
